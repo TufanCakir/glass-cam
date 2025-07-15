@@ -1,0 +1,135 @@
+[
+  {
+    "id": "none",
+    "label": "None",
+    "description": "Kein Filter aktiviert",
+    "type": "basic",
+    "color": "#FFFFFF"
+  },
+  {
+    "id": "glass",
+    "label": "Glass",
+    "description": "Weicher Glas/Blur Effekt",
+    "type": "glass",
+    "color": "#A0C4FF"
+  },
+  {
+    "id": "fire",
+    "label": "Fire",
+    "description": "Feuriger, warmer Farblook",
+    "type": "theme",
+    "color": "#FF6D28"
+  },
+  {
+    "id": "ice",
+    "label": "Ice",
+    "description": "Kühler Eis-Look mit blauen Tönen",
+    "type": "theme",
+    "color": "#00B4D8"
+  },
+  {
+    "id": "nature",
+    "label": "Nature",
+    "description": "Frischer, grüner Natur-Look",
+    "type": "theme",
+    "color": "#06D6A0"
+  },
+  {
+    "id": "void",
+    "label": "Void",
+    "description": "Mystisch, dunkler Void-Filter",
+    "type": "theme",
+    "color": "#7209B7"
+  },
+  {
+    "id": "hell",
+    "label": "Hell",
+    "description": "Hölle-Filter",
+    "type": "theme",
+    "color": "#E63946"
+  },
+  {
+    "id": "heaven",
+    "label": "Heaven",
+    "description": "Himmel-Filter",
+    "type": "theme",
+    "color": "#A2D2FF"
+  },
+  {
+    "id": "dream",
+    "label": "Dream",
+    "description": "Weicher, verträumter Look mit Pastelltönen.",
+    "type": "theme",
+    "color": "#FFC8DD"
+  },
+  {
+    "id": "neon",
+    "label": "Neon",
+    "description": "Leuchtend, futuristisch, wie Neonröhren.",
+    "type": "theme",
+    "color": "#F72585"
+  },
+  {
+    "id": "midnight",
+    "label": "Midnight",
+    "description": "Dunkel, mystisch, Nachtstimmung.",
+    "type": "theme",
+    "color": "#3A0CA3"
+  },
+  {
+    "id": "autumn",
+    "label": "Autumn",
+    "description": "Warme Herbstfarben, orange-braun.",
+    "type": "theme",
+    "color": "#FF9F1C"
+  },
+  {
+    "id": "sakura",
+    "label": "Sakura",
+    "description": "Japanischer Kirschblüten-Look.",
+    "type": "theme",
+    "color": "#FFB7C3"
+  },
+  {
+    "id": "cyber",
+    "label": "Cyber",
+    "description": "Glitchy, Techno, Sci-Fi.",
+    "type": "theme",
+    "color": "#00F5D4"
+  },
+  {
+    "id": "ocean",
+    "label": "Ocean",
+    "description": "Tiefes Blau, kühl, Wellengefühl.",
+    "type": "theme",
+    "color": "#0077B6"
+  },
+  {
+    "id": "galaxy",
+    "label": "Galaxy",
+    "description": "Bunte Sternennebel, Weltraum.",
+    "type": "theme",
+    "color": "#7209B7"
+  },
+  {
+    "id": "lightning",
+    "label": "Lightning",
+    "description": "gelb-blitziger Look.",
+    "type": "theme",
+    "color": "#FFD60A"
+  },
+  {
+    "id": "vintage",
+    "label": "Vintage",
+    "description": "Sepia-Look.",
+    "type": "theme",
+    "color": "#D6A77A"
+  },
+  {
+    "id": "darksoul",
+    "label": "Darksoul",
+    "description": "düster, dunkel.",
+    "type": "theme",
+    "color": "#1A1A1D"
+  }
+]
