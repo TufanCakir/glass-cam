@@ -17,7 +17,7 @@
       "bundleIdentifier": "com.tufancakir.glasscam",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false,
-        "NSCameraUsageDescription": "Diese App benötigt Zugriff auf Ihre Kamera, um Fotos aufzunehmen und Filter anzuwenden." // HIER HINZUGEFÜGT
+        "NSCameraUsageDescription": "Diese App benötigt Zugriff auf Ihre Kamera, um Fotos aufzunehmen und Filter anzuwenden."
       }
     },
     "android": {
@@ -33,12 +33,16 @@
     },
     "updates": {
       "fallbackToCacheTimeout": 0,
-      "enabled": true
+      "enabled": true,
+      "url": "https://u.expo.dev/a8ce1c84-2017-4500-aa5c-4e8d797d5efe"
     },
     "extra": {
       "eas": {
         "projectId": "a8ce1c84-2017-4500-aa5c-4e8d797d5efe"
       }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
     }
   }
 }
